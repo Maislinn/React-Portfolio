@@ -47,13 +47,12 @@ In this project I was able to practice my tests and React skills.
 
 ## Usage
 To use this REPO:
-(Demo in Assets Folder)
+(This Repo only contains a few example projects and not my completed resume at this point. This is used to show my technique with react.)
    1. Open the integrated terminal window
    2. Run your installations with NPM I
-   3. Fill in the prompted questions
+   3. Run NPM Start
 
-![Demo1](./Assets/Demo1.png)
-![Demo2](./Assets/Demo2.png)
+Or Visit the Deployed link here:
    
 ## Features
 - React
