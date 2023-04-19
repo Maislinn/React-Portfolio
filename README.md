@@ -52,7 +52,7 @@ To use this REPO:
    2. Run your installations with NPM I
    3. Run NPM Start
 
-Or Visit the Deployed link here: https://maislinn.github.io/React-Portfolio/
+Or Visit the Deployed link here: https://maislinn-react-portfolio.herokuapp.com/#
    
 ## Features
 - React
