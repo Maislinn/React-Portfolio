@@ -16,7 +16,7 @@ function Portfolio() {
                 </div>
                 <div className="col-md-6 mt-3">
                     <div className="card">
-                        <myimg src={require('./Pet-Pal-Image.png')} className="card-img-top" alt="..." />
+                        <img src={require('./Pet-Pal-Image.png')} className="card-img-top" alt="..." />
                         <div className="card-body">
                             <h5 className="card-title">Pet Pal Project 3</h5>
                             <p className="card-text">Pet Pal is a full stack MERN application that connects pet owners to pet sitters. This application also features Vite React Node.js Apollo Express MongoDB and Stripe Payment API. </p>
