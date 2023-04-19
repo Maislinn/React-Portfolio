@@ -16,11 +16,11 @@ function Portfolio() {
                 </div>
                 <div className="col-md-6 mt-3">
                     <div className="card">
-                        <myimg src={require('./HTML-Portfolio-project.png')} className="card-img-top" alt="..." />
+                        <myimg src={require('./Pet-Pal-Image.png')} className="card-img-top" alt="..." />
                         <div className="card-body">
-                            <h5 className="card-title">HTML Portfolio Project</h5>
-                            <p className="card-text">As a practice using basic HTML & CSS - I was asked to make a general portfolio - this is that portfolio.</p>
-                            <a href="https://maislinn.github.io/Advanced_CSS_Challenge-_Professional_Portfolio/" className="btn btn-primary">View Project</a>
+                            <h5 className="card-title">Pet Pal Project 3</h5>
+                            <p className="card-text">Pet Pal is a full stack MERN application that connects pet owners to pet sitters. This application also features Vite React Node.js Apollo Express MongoDB and Stripe Payment API. </p>
+                            <a href="https://github.com/Maislinn/Project3_MERN" className="btn btn-primary">View Project</a>
                         </div>
                     </div>
                 </div>
